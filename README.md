@@ -7,7 +7,7 @@ Implementación de un login y registro con la utilización de los servicios de F
 Clona el proyecto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/martinizin/LoginConFirebase.git
 ```
 
 Posiciónate la carpeta del proyecto
@@ -57,3 +57,6 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
 ```
 
 ##  Screenshots de funcionamiento del proyecto
+
+![image](https://github.com/martinizin/LoginConFirebase/assets/117743846/d3c8ee6f-e2ec-49c8-891f-5312b0789fb2)
+
